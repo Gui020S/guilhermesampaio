@@ -17,7 +17,6 @@ Aqui você vai encontrar meus projetos de estudo e prática, todos criados para 
 ---
 
 ## 📂 Meus primeiros projetos de QA  
-*(Os repositórios já estão organizados. Vou preenchendo com conteúdo prático.)*
 
 ### 🔹 **Automação Web – Playwright**  
 `automacao-web-playwright`  
@@ -46,7 +45,7 @@ Construir projetos sólidos que provem minha capacidade prática e me preparem p
 ---
 
 ## 📫 Contato
-- **LinkedIn:** *[(adicione seu link aqui)](https://www.linkedin.com/in/guilherme-sampaio-a67457372)*
+- **LinkedIn:** *(https://www.linkedin.com/in/guilherme-sampaio-a67457372)*
 - **E-mail:** *guisampaio2025@outlook.com*
 
 
