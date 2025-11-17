@@ -45,7 +45,7 @@ Construir projetos sólidos que provem minha capacidade prática e me preparem p
 ---
 
 ## 📫 Contato
-- **LinkedIn:** *(https://www.linkedin.com/in/guilherme-sampaio-a67457372)*
+- **LinkedIn:** *https://www.linkedin.com/in/guilherme-sampaio-a67457372*
 - **E-mail:** *guisampaio2025@outlook.com*
 
 
